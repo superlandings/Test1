@@ -10,7 +10,7 @@ public class Test3 {
     }
     //需求：从以下内容中爬取出，手机，邮箱，座机，400等电话信息
     private static void method() {
-        String date = "来黑马程序员学习Java，\n" +
+        String date = "学习Java日志，\n" +
                 "       电话： 18666688888, 18699997777\n" +
                 "       或者联系邮箱:boniu@itcast.cn, \n" +
                 "       座机电话：01036517895, 010-98951256\n" +
